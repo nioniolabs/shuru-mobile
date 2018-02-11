@@ -1,2 +1,1 @@
-# shuru-mobile
-Aplicación móvil de Shuru
+# shuru mobile
